@@ -1,5 +1,5 @@
 using System;
-using System.Collections.Generic;
+using System.Collections.Generic;// con esteo le dice a C# que vas a usar lista string y diccionario, el programa no vaahsaber que son y te dara un error
 
 namespace SistemaRestaurantes_Senator
 {
